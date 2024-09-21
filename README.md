@@ -10,7 +10,7 @@ This project is a fully responsive AI video editing SaaS landing page built with
 - [Contact](#contact)
 
 ## 🌐 Demo
-Check out the live version of the landing page [here](https://your-github-username.github.io/SaaS-Landing-Page).
+Check out the live version of the landing page [here](https://harsh-44.github.io/SaaS-Landing-Page).
 
 ## 🚀 Features
 - Fully responsive design 🌍
